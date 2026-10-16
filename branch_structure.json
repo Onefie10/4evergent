@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-97-replace-apps-web-src-types-ts-with-re-exports",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-97-replace-apps-web-src-types-ts-with-re-exports": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-97-replace-apps-web-src-types-ts-with-re-exports",
+    "origin"
+  ]
+}
